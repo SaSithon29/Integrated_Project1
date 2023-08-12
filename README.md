@@ -16,12 +16,12 @@
  
 <img width="904" alt="image" src="https://github.com/SaSithon29/Integrated_Project1/assets/88130453/36fa3508-6f8f-4fc4-b50c-ed28ce733c43">
  
-<img width="917" alt="image" src="https://github.com/SaSithon29/Integrated_Project1/assets/88130453/b31ef812-f38e-46ca-82e4-d8e8743389e1">
+<img width="917" alt="image" src="https://github.com/SaSithon29/Integrated_Project1/assets/88130453/b31ef812-f38e-46ca-82e4-d8e8743389e1">  
 
- 
 
 
 ---
+
 - #### USER-VIEW-ANNOUNCEMENT  
   > This page is designed to present notifications to users. The displayed notices are categorized into pages. You have the option to select the type of notices you wish to view. Additionally, you can choose to separately display old and new announcements.
                         
