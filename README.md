@@ -1,5 +1,6 @@
 # Integrated_Project 1
 ### **_Project must require a substantial background in IT and applications of studied concepts and techniques._**
+#### Project have 3 members
 ---
 - #### ADMIN-VIEW-ANNOUNCEMENT 
   > The page is designed to control the addition, editing, deletion, hiding, and display of notices for users.
